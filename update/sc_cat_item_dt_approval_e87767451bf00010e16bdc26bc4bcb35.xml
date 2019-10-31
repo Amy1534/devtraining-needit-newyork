@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_dt_approval">
+    <sc_cat_item_dt_approval action="INSERT_OR_UPDATE">
+        <approval_script/>
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan display_value="Deliver a thing ">dee62f051bf00010e16bdc26bc4bcbec</delivery_plan>
+        <delivery_time/>
+        <description/>
+        <generation_script/>
+        <group/>
+        <instructions/>
+        <name>Manager approval </name>
+        <order>100</order>
+        <rejection_goto/>
+        <short_description/>
+        <sla/>
+        <sys_class_name>sc_cat_item_dt_approval</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-28 13:11:13</sys_created_on>
+        <sys_id>e87767451bf00010e16bdc26bc4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager approval </sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_dt_approval_e87767451bf00010e16bdc26bc4bcb35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-28 13:11:13</sys_updated_on>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <work_notes/>
+    </sc_cat_item_dt_approval>
+</record_update>
