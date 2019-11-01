@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
-        <misc>7.7304</misc>
+        <misc>7.7701</misc>
         <order>600</order>
         <question display_value="Type of thing variable">063f4f8d1b700010e16bdc26bc4bcb9d</question>
         <rec_misc>0</rec_misc>
